@@ -1,28 +1,28 @@
 SET UTF-8
-TRY ־אבגדהווזחטיכלמםנןסעפףצץקרשתײ׳״
+TRY ־אבגדהוזחטיכלמםנןסעפףצץקרשת׳״
 
 KEY קראטוןםפ|שדגכעיחלךף|זסבהנמצתץ
 
-REP 18
-REP װ וו
-REP ױ וי
-REP ײ יי
-REP ײַ יי
-REP ' ׳
-REP '' ״
-REP " ״
+REP 22
+REP וו װ
+REP וי ױ
+REP יי ײ
+REP יי ײַ
+REP ׳ '
+REP ״ ''
+REP ״ "
 REP א אַ
 REP א אָ
-REP בּ ב
-REP בֿ ב
-REP וּ ו
-REP יִ י
-REP כּ כ
-REP פ פּ
-REP פֿ פ
-REP שׂ ש
-REP תּ ת
-REP אי יי
-REP אַ אָ
-REP אָ אַ
-
+REP ב בּ
+REP ב בֿ
+REP ו וּ
+REP י יִ
+REP כ כּ
+REP פּ פ
+REP פ פֿ
+REP ש שׂ
+REP ש שׁ
+REP ת תּ
+REP ^אי יי
+REP ו י
+REP י ו
